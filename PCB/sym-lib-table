@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Sazanami40-rescue)(type Legacy)(uri ${KIPRJMOD}/Sazanami40-rescue.lib)(options "")(descr ""))
+)

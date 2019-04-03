@@ -23,11 +23,11 @@ X A 2 150 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MxLEDBit-cache_PWR_FLAG
+# Sazanami40-rescue_PWR_FLAG-MxLEDBit-cache
 #
-DEF MxLEDBit-cache_PWR_FLAG #FLG 0 0 N N 1 F P
+DEF Sazanami40-rescue_PWR_FLAG-MxLEDBit-cache #FLG 0 0 N N 1 F P
 F0 "#FLG" 0 75 50 H I C CNN
-F1 "MxLEDBit-cache_PWR_FLAG" 0 150 50 H V C CNN
+F1 "Sazanami40-rescue_PWR_FLAG-MxLEDBit-cache" 0 150 50 H V C CNN
 F2 "" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
